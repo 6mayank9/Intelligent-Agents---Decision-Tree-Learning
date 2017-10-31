@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelligent-Agents---Decision-Tree-Learning", "Intelligent-Agents---Decision-Tree-Learning.csproj", "{346FBC06-2C51-BF09-35AE-0EA764AD57C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelligent-Agents---Decision-Tree-Learning.Editor", "Intelligent-Agents---Decision-Tree-Learning.Editor.csproj", "{1E3D092B-E6CB-8FC7-7D66-24179AAF9A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346FBC06-2C51-BF09-35AE-0EA764AD57C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346FBC06-2C51-BF09-35AE-0EA764AD57C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346FBC06-2C51-BF09-35AE-0EA764AD57C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346FBC06-2C51-BF09-35AE-0EA764AD57C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3D092B-E6CB-8FC7-7D66-24179AAF9A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3D092B-E6CB-8FC7-7D66-24179AAF9A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3D092B-E6CB-8FC7-7D66-24179AAF9A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3D092B-E6CB-8FC7-7D66-24179AAF9A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
